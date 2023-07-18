@@ -1,6 +1,6 @@
 const colors = [
-    { group: "1", shades: [{ name: "Crimson", code: "#117C6F" }, { name: "Tomato", code: "#289C8E" }, { name: "IndianRed", code: "#2FC4B2" }, { name: "FireBrick", code: "#8DE5DB" }, { name: "FireBrick", code: "#B2F0E8" } ] },
-    { group: "2", shades: [{ name: "LimeGreen", code: "#4A707A" }, { name: "ForestGreen", code: "#7697A0" }, { name: "OliveDrab", code: "#94B0B7" }, { name: "DarkOliveGreen", code: "#C2C8C5" },{ name: "DarkOliveGreen", code: "#DDDDDA" } ] },
+    { group: "1", shades: [{ code: "#117C6F" }, { code: "#289C8E" }, { code: "#2FC4B2" }, { code: "#8DE5DB" }, { code: "#B2F0E8" } ] },
+    { group: "2", shades: [{ code: "#4A707A" }, { code: "#7697A0" }, { code: "#94B0B7" }, { code: "#C2C8C5" },{  code: "#DDDDDA" } ] },
     // Add more color groups and their shades as needed
   ];
   
