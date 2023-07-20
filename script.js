@@ -4,6 +4,10 @@ const colors = [
     // Add more color groups and their shades as needed
     { group: "3", shades: [{ code: "#2C121B" }, { code: "#F26F14" }, { code: "#FBD3B7" }, { code: "#EEE7DF" } ] },
     { group: "4", shades: [{ code: "#0C133B" }, { code: "#32D3E7" }, { code: "#EBF4F1" }, { code: "#D1E0DB" } ] },
+    { group: "4a", shades: [{ code: "#3C3D42" }, { code: "#9CCD62" }, { code: "#F6F8E2" }, { code: "#E0DDCA" } ] },
+
+    { group: "5", shades: [{ code: "#F57C51" }, { code: "#FCBC58" }, { code: "#F6F6E2" }, { code: "#E0DDCA" } ] },
+    { group: "6", shades: [{ code: "#2EA1DA" }, { code: "#F1D39D" }, { code: "#FCF5E5" }, { code: "#F8CBC5" } ] },
    
   ];
   
