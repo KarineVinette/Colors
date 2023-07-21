@@ -9,6 +9,12 @@ const colors = [
     { group: "5", shades: [{ code: "#F57C51" }, { code: "#FCBC58" }, { code: "#F6F6E2" }, { code: "#E0DDCA" } ] },
     { group: "6", shades: [{ code: "#2EA1DA" }, { code: "#F1D39D" }, { code: "#FCF5E5" }, { code: "#F8CBC5" } ] },
    
+    { group: "7", shades: [{ code: "#407C87" }, { code: "#A5DBDD" }, { code: "#EEF1F6" }, { code: "#D3E1E2" } ] },
+    { group: "8", shades: [{ code: "#89687D" }, { code: "#FCD8CC" }, { code: "#FFF7EC" }, { code: "#A7E0E9" } ] },
+
+    { group: "9", shades: [{ code: "#555A54" }, { code: "#F7F2EF" }, { code: "#E1DDD2" }, { code: "#BFBBAF" } ] },
+    { group: "10", shades: [{ code: "#D1114D" }, { code: "#EED5D1" }, { code: "#F38592" }, { code: "#D6517C" } ] },
+   
   ];
   
   const colorPalette = document.querySelector(".color-palette");
