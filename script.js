@@ -14,6 +14,12 @@ const colors = [
 
     { group: "9", shades: [{ code: "#555A54" }, { code: "#F7F2EF" }, { code: "#E1DDD2" }, { code: "#BFBBAF" } ] },
     { group: "10", shades: [{ code: "#D1114D" }, { code: "#EED5D1" }, { code: "#F38592" }, { code: "#D6517C" } ] },
+
+    { group: "11", shades: [{ code: "#C722929" }, { code: "#FFCCCC" }, { code: "#FF8080" }, { code: "#FF4D4D" } ] },
+    { group: "12", shades: [{ code: "#404040" }, { code: "#737373" }, { code: "#A6A6A6" }, { code: "#D9D9D9" } ] },
+
+    { group: "13", shades: [{ code: "#8CBD62" }, { code: "#FFC16A" }, { code: "#FFF7EC" }, { code: "#F6E6CF" } ] },
+    { group: "14", shades: [{ code: "#065F89" }, { code: "#218DAA" }, { code: "#C6DFE6" }, { code: "#64B4CD" } ] },
    
   ];
   
