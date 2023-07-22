@@ -20,6 +20,10 @@ const colors = [
 
     { group: "13", shades: [{ code: "#8CBD62" }, { code: "#FFC16A" }, { code: "#FFF7EC" }, { code: "#F6E6CF" } ] },
     { group: "14", shades: [{ code: "#065F89" }, { code: "#218DAA" }, { code: "#C6DFE6" }, { code: "#64B4CD" } ] },
+
+    { group: "15", shades: [{ code: "#758058" }, { code: "#A4AA7C" }, { code: "#E2E0CF" }, { code: "#BFBB95" } ] },
+    { group: "16", shades: [{ code: "#FF8C00" }, { code: "#FFD8A8" }, { code: "#FFCA7A" }, { code: "#FFAD42" } ] },
+
    
   ];
   
